@@ -1,6 +1,6 @@
 # Conway’s Game of Life
 
-[To the Game of Life page on my portfolio website](https://julian-hoelz.github.io/game-of-life.html?lang=en)
+[To the **Game of Life** page on my portfolio website](https://julian-hoelz.github.io/game-of-life.html?lang=en)
 
 ## Explanation
 
